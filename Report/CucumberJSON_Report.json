@@ -1,0 +1,576 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 12,
+        "name": "User Checking the login functionality using valid username and password",
+        "description": "",
+        "id": "testing-the-booking-functionality-of-the-adactin-hotel-booking-application;user-checking-the-login-functionality-using-valid-username-and-password;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3494174500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User must launch the loin page",
+            "match": {
+              "location": "StepDefinitionDemo.user_must_launch_the_loin_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 709803300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter the valid username \"rekhamca.h88@gmail.com\" in the username field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "rekhamca.h88@gmail.com",
+                  "offset": 31
+                }
+              ],
+              "location": "StepDefinitionDemo.user_enter_the_valid_username_in_the_username_field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 309815500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user ente the valid password \"vibin\" in the password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "vibin",
+                  "offset": 30
+                }
+              ],
+              "location": "StepDefinitionDemo.user_ente_the_valid_password_in_the_password_field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 737399600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User confirm it and navigate to the search page",
+            "match": {
+              "location": "StepDefinitionDemo.user_confirm_it_and_navigate_to_the_search_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "User Checking the login functionality using valid username and password",
+        "description": "",
+        "id": "testing-the-booking-functionality-of-the-adactin-hotel-booking-application;user-checking-the-login-functionality-using-valid-username-and-password;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 421767200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User must launch the loin page",
+            "match": {
+              "location": "StepDefinitionDemo.user_must_launch_the_loin_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 404169200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter the valid username \"rekhamcah88@gmail.com\" in the username field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "rekhamcah88@gmail.com",
+                  "offset": 31
+                }
+              ],
+              "location": "StepDefinitionDemo.user_enter_the_valid_username_in_the_username_field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 250043700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user ente the valid password \"Vibin@@16\" in the password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Vibin@@16",
+                  "offset": 30
+                }
+              ],
+              "location": "StepDefinitionDemo.user_ente_the_valid_password_in_the_password_field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 545343000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User confirm it and navigate to the search page",
+            "match": {
+              "location": "StepDefinitionDemo.user_confirm_it_and_navigate_to_the_search_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "User Checking the login functionality using valid username and password",
+        "description": "",
+        "id": "testing-the-booking-functionality-of-the-adactin-hotel-booking-application;user-checking-the-login-functionality-using-valid-username-and-password;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 406401200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User must launch the loin page",
+            "match": {
+              "location": "StepDefinitionDemo.user_must_launch_the_loin_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 315484600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter the valid username \"Rekha1234\" in the username field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Rekha1234",
+                  "offset": 31
+                }
+              ],
+              "location": "StepDefinitionDemo.user_enter_the_valid_username_in_the_username_field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 228862900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user ente the valid password \"Vibin@@16\" in the password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Vibin@@16",
+                  "offset": 30
+                }
+              ],
+              "location": "StepDefinitionDemo.user_ente_the_valid_password_in_the_password_field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1162353000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User confirm it and navigate to the search page",
+            "match": {
+              "location": "StepDefinitionDemo.user_confirm_it_and_navigate_to_the_search_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "User Checking the Booking Functionality for Searching Hotel",
+        "description": "",
+        "id": "testing-the-booking-functionality-of-the-adactin-hotel-booking-application;user-checking-the-booking-functionality-for-searching-hotel",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 218700,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User must click the Login Button",
+            "match": {
+              "location": "StepDefinitionDemo.user_must_click_the_Login_Button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 657098200,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User Must Select the location by using Single Drop Down Method",
+            "match": {
+              "location": "StepDefinitionDemo.user_Must_Select_the_location_by_using_Single_Drop_Down_Method()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 409947600,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User Must Select the Hotel by using Single Drop Down Method",
+            "match": {
+              "location": "StepDefinitionDemo.user_Must_Select_the_Hotel_by_using_Single_Drop_Down_Method()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 490611000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User Must Select the RoomType by using Single Drop Down Method",
+            "match": {
+              "location": "StepDefinitionDemo.user_Must_Select_the_RoomType_by_using_Single_Drop_Down_Method()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 348952900,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User Must Select Number Of Rooms by using Single Drop Down Method",
+            "match": {
+              "location": "StepDefinitionDemo.user_Must_Select_Number_Of_Rooms_by_using_Single_Drop_Down_Method()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 370724600,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User Must Select the Room for Adults by using Single Drop Down Method",
+            "match": {
+              "location": "StepDefinitionDemo.user_Must_Select_the_Room_for_Adults_by_using_Single_Drop_Down_Method()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 391471900,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User Must Select the Room for Children by using Single Drop Down Method",
+            "match": {
+              "location": "StepDefinitionDemo.user_Must_Select_the_Room_for_Children_by_using_Single_Drop_Down_Method()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 846396500,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "User Confirm it by Clicking the Search button and Navigated to the Select Hotel Page",
+            "match": {
+              "location": "StepDefinitionDemo.user_Confirm_it_by_Clicking_the_Search_button_and_Navigated_to_the_Select_Hotel_Page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 16,
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "line": 29,
+        "name": "User Checking the booking Functionality fo Selecting the Hotel",
+        "description": "",
+        "id": "testing-the-booking-functionality-of-the-adactin-hotel-booking-application;user-checking-the-booking-functionality-fo-selecting-the-hotel",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 182100,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User must click the serach button",
+            "match": {
+              "location": "StepDefinitionDemo.user_must_click_the_serach_button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 247596500,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "User must click the radio Button to confirm the Hoteol",
+            "match": {
+              "location": "StepDefinitionDemo.user_must_click_the_radio_Button_to_confirm_the_Hoteol()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 814362400,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "User must click the continue button",
+            "match": {
+              "location": "StepDefinitionDemo.user_must_click_the_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 909900,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "User Confirm it and Navigated to the Book Hotel Page",
+            "match": {
+              "location": "StepDefinitionDemo.user_Confirm_it_and_Navigated_to_the_Book_Hotel_Page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 28,
+            "name": "@SanityTest"
+          }
+        ]
+      },
+      {
+        "line": 37,
+        "name": "User checking the Booking Functionality to Book a Hotel",
+        "description": "",
+        "id": "testing-the-booking-functionality-of-the-adactin-hotel-booking-application;user-checking-the-booking-functionality-to-book-a-hotel",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 165800,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "User should click the continue button",
+            "match": {
+              "location": "StepDefinitionDemo.user_should_click_the_continue_button()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 336657800,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "User enter First name in the First Name Field",
+            "match": {
+              "location": "StepDefinitionDemo.user_enter_First_name_in_the_First_Name_Field()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 231895000,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "User enter Last Name in the Last Name Field",
+            "match": {
+              "location": "StepDefinitionDemo.user_enter_Last_Name_in_the_Last_Name_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 262613300,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "User Enter Address in the Address Field",
+            "match": {
+              "location": "StepDefinitionDemo.user_Enter_Address_in_the_Address_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 256138400,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "User Enter The credit Card Number by using 16digits in the Credit Card Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "16",
+                  "offset": 43
+                }
+              ],
+              "location": "StepDefinitionDemo.user_Enter_The_credit_Card_Number_by_using_digits_in_the_Credit_Card_Field(int)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 280428200,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "User Must select the Credit card type",
+            "match": {
+              "location": "StepDefinitionDemo.user_Must_select_the_Credit_card_type()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 493581700,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "User Must select Expiry Date by using single drop down method",
+            "match": {
+              "location": "StepDefinitionDemo.user_Must_select_Expiry_Date_by_using_single_drop_down_method()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 381825500,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "User Must select Expiry Year by using single drop down method",
+            "match": {
+              "location": "StepDefinitionDemo.user_Must_select_Expiry_Year_by_using_single_drop_down_method()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 330292000,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "User must enter the CVV Number in the CVV Number field",
+            "match": {
+              "location": "StepDefinitionDemo.user_must_enter_the_CVV_Number_in_the_CVV_Number_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 249320200,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "User Confirm it by clicking BookNow button and Navigated to Booking Confirmation Page",
+            "match": {
+              "location": "StepDefinitionDemo.user_Confirm_it_by_clicking_BookNow_button_and_Navigated_to_Booking_Confirmation_Page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 36,
+            "name": "@SanityTest"
+          }
+        ]
+      }
+    ],
+    "name": "Testing the booking functionality of the Adactin Hotel Booking application",
+    "description": "",
+    "id": "testing-the-booking-functionality-of-the-adactin-hotel-booking-application",
+    "keyword": "Feature",
+    "uri": "Adactin.feature"
+  }
+]
